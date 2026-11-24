@@ -27,6 +27,11 @@ const Home = () => {
           I enjoy working with React, Node.js, and Tailwind CSS to create fast and
           simple websites.
         </p>
+        {/* ADDED: third paragraph about what I am learning */}
+<p className='text-[#8892b0] pb-4 max-w-[700px]'>
+  Right now I am learning Git and GitHub so I can work with my team on real
+  projects.
+</p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
             <Link to='work' smooth={true} duration={500} className="flex">
