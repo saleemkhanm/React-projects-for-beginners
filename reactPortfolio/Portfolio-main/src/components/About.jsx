@@ -21,6 +21,7 @@ const About = () => {
             I have built several small projects with React and I enjoy turning ideas
             into working websites.
           </p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo omnis cupiditate ratione unde illo, provident sapiente saepe nostrum dolorem aperiam, consectetur, quibusdam dignissimos nulla voluptatem inventore impedit molestiae recusandae ullam!</p>
           <div>
             <p>I am passionate about building excellent software that improves
               the lives of those around me. I specialize in creating software
